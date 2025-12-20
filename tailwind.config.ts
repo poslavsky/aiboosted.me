@@ -53,7 +53,7 @@ export default {
                 ring: "hsl(var(--ring) / <alpha-value>)",
             },
             fontFamily: {
-                sans: ["'Space Grotesk'", "Inter", "var(--font-sans)"],
+                sans: ["Inter", "var(--font-sans)"],
                 serif: ["var(--font-serif)"],
                 mono: ["JetBrains Mono", "var(--font-mono)"],
             },
