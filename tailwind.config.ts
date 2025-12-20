@@ -53,9 +53,9 @@ export default {
                 ring: "hsl(var(--ring) / <alpha-value>)",
             },
             fontFamily: {
-                sans: ["Inter", "var(--font-sans)"],
+                sans: ["Inter", "system-ui", "sans-serif"],
                 serif: ["var(--font-serif)"],
-                mono: ["JetBrains Mono", "var(--font-mono)"],
+                mono: ["JetBrains Mono", "monospace"],
             },
             keyframes: {
                 "accordion-down": {
