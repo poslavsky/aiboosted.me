@@ -22,7 +22,7 @@ export default function Hero({ onGetStarted }: HeroProps) {
             <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
                 <div className="max-w-4xl mx-auto">
                     <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                        Лучший подход для практики иностранного языка в 2025
+                        Лучший подход для практики иностранного языка в 2026
                     </h1>
 
                     <div className="text-xl sm:text-2xl text-white/90 mb-4 font-medium">

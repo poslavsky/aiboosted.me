@@ -68,12 +68,24 @@ export default function Home() {
                             <button
                                 onClick={() => {
                                     setShowPurchaseModal(false);
+                                    window.open("https://web.tribute.tg/p/lh5", "_blank");
                                 }}
                                 className="flex-1 px-4 py-2 bg-primary text-primary-foreground rounded-md hover-elevate transition-all"
                             >
                                 Купить за €45
                             </button>
                         </div>
+                        <p className="mt-6 text-center text-sm text-muted-foreground">
+                            Не получается оплатить?{" "}
+                            <a
+                                href="https://t.me/Pslvsk"
+                                className="text-primary font-medium hover:underline"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Напишите в Telegram
+                            </a>
+                        </p>
                     </div>
                 </div>
             )}

@@ -122,6 +122,18 @@ const PricingCard = ({
                         <ArrowRight className="ml-2 h-4 w-4" />
                     </a>
                 </Button>
+
+                <p className="mt-4 text-center text-sm text-muted-foreground">
+                    Не получается оплатить?{" "}
+                    <a
+                        href="https://t.me/Pslvsk"
+                        className="text-primary font-medium hover:underline"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Напишите в Telegram
+                    </a>
+                </p>
             </CardContent>
         </Card>
     );

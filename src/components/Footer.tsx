@@ -68,7 +68,7 @@ export default function Footer() {
                 <div className="mt-12 pt-8 border-t border-border">
                     <div className="flex flex-col md:flex-row justify-between items-center gap-4">
                         <p className="text-sm text-muted-foreground">
-                            © 2025 AIBoosted.me. Все права защищены.
+                            © 2026 AIBoosted.me. Все права защищены.
                         </p>
                         <div className="flex gap-6 text-sm">
                             <a href="#" className="text-muted-foreground hover:text-foreground transition-colors">

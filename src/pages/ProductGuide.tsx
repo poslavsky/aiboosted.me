@@ -32,8 +32,8 @@ const ProductGuide = () => {
     {
       id: 2,
       name: 'AI Buddy',
-      status: 'ChatGPT Plus',
-      statusType: 'paid',
+      status: 'РЕКОМЕНДУЕМ',
+      statusType: 'popular',
       whatItIs: 'Твой персональный AI-native. Помнит контекст, знает твои цели, адаптируется под тебя.',
       howItWorks: [
         'Настраиваем твоего AI-Buddy для разговорной практики и фидбека',
@@ -509,7 +509,8 @@ const ProductGuide = () => {
                         letterSpacing: '0.5px',
                         background: level.statusType === 'free' ? '#10b981' :
                           level.statusType === 'hot' ? '#ff2e00' :
-                            level.statusType === 'soon' ? '#e5e5e5' : '#000',
+                            level.statusType === 'popular' ? '#3B82F6' :
+                              level.statusType === 'soon' ? '#e5e5e5' : '#000',
                         color: level.statusType === 'soon' ? '#525252' : '#fff'
                       }}>
                         {level.status}

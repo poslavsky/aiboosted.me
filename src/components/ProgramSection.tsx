@@ -19,7 +19,7 @@ const benefits = [
     },
     {
         icon: CheckCircle,
-        title: "MUST-навык 2025",
+        title: "MUST-навык 2026",
         description: "Освоишь advanced возможности ChatGPT, которые помогут не только в языковом росте, но и в рабочих проектах, личных задачах и других сферах жизни."
     }
 ];
