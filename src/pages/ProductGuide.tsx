@@ -46,7 +46,7 @@ const ProductGuide = () => {
       timeToStart: '30 мин',
       cost: '45 €',
       costNote: 'настройка один раз',
-      ctaUrl: 'https://aiboosted.me/',
+      ctaUrl: 'https://aiboosted.lemonsqueezy.com/checkout/buy/6420c1e6-dea3-4fe8-b92b-3244da10667a?discount=0',
       isAvailable: true
     },
     {

@@ -68,7 +68,7 @@ export default function Home() {
                             <button
                                 onClick={() => {
                                     setShowPurchaseModal(false);
-                                    window.open("https://web.tribute.tg/p/lh5", "_blank");
+                                    window.open("https://aiboosted.lemonsqueezy.com/checkout/buy/6420c1e6-dea3-4fe8-b92b-3244da10667a?discount=0", "_blank");
                                 }}
                                 className="flex-1 px-4 py-2 bg-primary text-primary-foreground rounded-md hover-elevate transition-all"
                             >

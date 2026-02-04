@@ -148,7 +148,7 @@ export default function PricingSection({ onGetCourse }: PricingSectionProps) {
             oldPrice: "€65",
             priceSubtext: "~ Цена одного урока с репетитором",
             buttonText: "Получить доступ",
-            buttonLink: "https://web.tribute.tg/p/lh5",
+            buttonLink: "https://aiboosted.lemonsqueezy.com/checkout/buy/6420c1e6-dea3-4fe8-b92b-3244da10667a?discount=0",
             isPrimary: true,
             features: [
                 { bold: "Гайд в Notion:", text: "" },
